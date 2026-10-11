@@ -1,0 +1,24 @@
+references:
+  - "https://en.wikipedia.org/wiki/Land_Rover_Discovery"
+
+generations:
+  - name: "Series I"
+    start_year: 1989
+    end_year: 1998
+    description: "The first Discovery, on the Range Rover chassis."
+  - name: "Series II"
+    start_year: 1998
+    end_year: 2004
+    description: "A revised Series I with the Td5 diesel and the 4.0 L V8."
+  - name: "Discovery 3 (L319)"
+    start_year: 2004
+    end_year: 2009
+    description: "The Integrated Body Frame platform with air suspension and Terrain Response."
+  - name: "Discovery 4 (L319)"
+    start_year: 2009
+    end_year: 2016
+    description: "A revised L319 with the 3.0 L SDV6 diesel and the 5.0 L V8."
+  - name: "Discovery 5 (L462)"
+    start_year: 2017
+    end_year: null
+    description: "The aluminium-bodied Discovery with Ingenium four-cylinder and six-cylinder engines."
